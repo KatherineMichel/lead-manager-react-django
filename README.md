@@ -1,5 +1,7 @@
 # Lead Manager React Django
 
+Code based on [Full Stack React and Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60), a video tutorial by Brad Traversy, which is based on an article [Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliari. This project uses a medium-difficulty project structure explained in [Option 1](https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together) of the article.
+
 ## Installation Instructions
 
 Clone the repo
@@ -55,3 +57,5 @@ $ npm run dev # use this to compile and run dev server
 ```
 
 Go to: http://127.0.0.1:8000/
+
+Warning: If used in production, create a unique `SECRET_KEY` and do not make it public.
