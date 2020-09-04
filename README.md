@@ -11,7 +11,7 @@ $ git clone https://github.com/KatherineMichel/lead-manager-react-django/
 `cd` into the directory
 
 ```bash
-$ cd lead_manager_react_django
+$ cd lead-manager-react-django
 ```
 
 Create a virtualenv
