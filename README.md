@@ -40,17 +40,18 @@ $ python manage.py makemigrations leads
 $ python manage.py migrate
 ```
 
-Run Python dev server
+In one terminal window, run Python dev server
 
 ```bash
 $ python manage.py runserver
 ```
 
-Compile JavaScript into `main.js` and run JavaScript dev server
+In another terminal window, compile JavaScript into `main.js` and run JavaScript dev server
 
 ```bash
 $ cd .. # cd into root
-$ npm run dev
+$ npm run build # use this to compile only
+$ npm run dev # use this to compile and run dev server
 ```
 
 Go to: http://127.0.0.1:8000/
