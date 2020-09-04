@@ -8,7 +8,7 @@ Clone the repo
 $ git clone https://github.com/KatherineMichel/lead_manager_react_django/
 ```
 
-`cd into the directory
+`cd` into the directory
 
 ```bash
 $ cd lead_manager_react_django
