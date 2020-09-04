@@ -1,10 +1,16 @@
 # Lead Manager React Django
 
-Code based on [Full Stack React and Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60), a video tutorial by Brad Traversy, which is based on an article [Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliari. This project uses a medium-difficulty project structure explained in [Option 1](https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together) of the article.
+Code based on [Full Stack React and Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60), a video tutorial by Brad Traversy, which is based on an article [Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliari. 
 
-I'll add to this repo as I complete more of the tutorial. 
+The First Milestone demonstrates a medium-difficulty project structure explained in [Option 1](https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together) of the article.
 
 For a First Milestone Template, check out the [first-milestone-template](https://github.com/KatherineMichel/lead-manager-react-django/tree/first-milestone-template) branch.
+
+The Second Milestones creates a table to display JSON objects and the ability to delete an object using a button. This is implemented using state management via Redux.
+
+For a Second Milestone Template, check out the [second-milestone-template](https://github.com/KatherineMichel/lead-manager-react-django/tree/second-milestone-template) branch.
+
+I'll add to this repo as I complete more of the tutorial. 
 
 ## Installation Instructions
 
@@ -64,6 +70,8 @@ $ npm run dev # use this to compile and run dev server
 
 Go to: http://127.0.0.1:8000/
 
-Your screen should look something like this...
+Your screen should look something like this... I've added an object using Postman and deleted it using the button.
 
-![](first-milestone-template.png)
+![](readme-images/second-milestone-template-1.png)
+
+![](readme-images/second-milestone-template-2.png)
