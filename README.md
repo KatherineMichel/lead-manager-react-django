@@ -5,7 +5,7 @@
 Clone the repo
 
 ```bash
-$ git clone https://github.com/KatherineMichel/lead_manager_react_django/
+$ git clone https://github.com/KatherineMichel/lead-manager-react-django/
 ```
 
 `cd` into the directory
