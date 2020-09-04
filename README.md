@@ -8,6 +8,8 @@ For a First Milestone Template, check out the [first-milestone-template](https:/
 
 ## Installation Instructions
 
+Warning: If used in production, create a unique `SECRET_KEY` and do not make it public.
+
 Clone the repo
 
 ```bash
@@ -62,4 +64,6 @@ $ npm run dev # use this to compile and run dev server
 
 Go to: http://127.0.0.1:8000/
 
-Warning: If used in production, create a unique `SECRET_KEY` and do not make it public.
+Your screen should look something like this...
+
+![](first-milestone-template.png)
