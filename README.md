@@ -2,6 +2,10 @@
 
 Code based on [Full Stack React and Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60), a video tutorial by Brad Traversy, which is based on an article [Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/) by Valentino Gagliari. This project uses a medium-difficulty project structure explained in [Option 1](https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together) of the article.
 
+I'll add to this repo as I complete more of the tutorial. 
+
+For a First Milestone Template, check out the [first-milestone-template](https://github.com/KatherineMichel/lead-manager-react-django/tree/first-milestone-template) branch.
+
 ## Installation Instructions
 
 Clone the repo
